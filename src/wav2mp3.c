@@ -6,7 +6,7 @@
 #include <dirent.h>
 #include <unistd.h>
 #include <pthread.h>
-#include <lame/lame.h>
+#include <lame.h>
 
 #define MAX_PATH_SIZE 255
 #define MAX_BUF_SIZE 2048
